@@ -1,0 +1,4 @@
+tk
+whisper
+moviepy
+torch
